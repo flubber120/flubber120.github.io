@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: flubber's cool homepage
 description: heyo guys!!
 
+body {  background-color: #ADD8E6; } 
