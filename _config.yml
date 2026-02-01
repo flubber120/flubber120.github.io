@@ -2,10 +2,3 @@ theme: jekyll-theme-minimal
 title: flubber's cool homepage
 description: heyo guys!!
 
-body {
-  background-color: #00008B
-  /* or */
-  /* background-image: url('path/to/your/image.jpg'); */
-  /* background-repeat: no-repeat; */
-  /* background-size: cover; */
-}
